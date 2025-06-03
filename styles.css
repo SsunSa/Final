@@ -1,0 +1,10 @@
+body {
+  font-family: "Helvetica Neue", sans-serif;
+}
+
+nav {
+  background-color: #2563eb;
+}
+nav ul li a:hover {
+  text-decoration: underline;
+}/*# sourceMappingURL=styles.css.map */
